@@ -1,0 +1,21 @@
+.list {
+    margin: 0 16px;
+}
+
+.list__language {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 2px;
+    display: block;
+    line-height: 50px;
+    position: relative;
+    top: 19px;
+}
+
+.list__language:hover {
+    background-color: #0B0C10;
+    color: #e9b31f;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
